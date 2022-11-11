@@ -30,6 +30,7 @@ namespace ComparingDate
             }
 
             Console.WriteLine($"DateTime final: {DateTime.Now}");
+
         }
     }
 }
